@@ -1,0 +1,9 @@
+////////////////////////
+// Created by glorung //
+// For GenSH project  //
+////////////////////////
+
+int		main()
+{
+  return	(0);
+}
